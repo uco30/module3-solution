@@ -36,20 +36,19 @@ h3 {
 }
 
 #nav-list {
-  margin-top: 10px;
+  margin: 5px;
   background-color: goldenrod;
 }
-#nav-list a {
+#nav-list p {
   color: black;
   text-align: center;
   border-bottom: 1px solid black;
+}
 
-}
-#nav-list a:hover {
-  background: #E7E7E7;
-}
-#nav-list a span {
-  font-size: 1.8em;
+
+#nav-list p {
+  font-size: 1.5em;
+  font-weight: 500;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
